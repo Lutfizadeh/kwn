@@ -2,7 +2,7 @@
 ## Soal
 1. Pendefinisian demokrasi yang sejalan dengan Dahl datang dari sebagai berikut, kecuali...
 
-a. Navis
+   a. Navis
 
 b. April Carter
 
