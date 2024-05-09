@@ -1,5 +1,5 @@
-# Konsep Demokrasi di Indonesia
-## Soal
+# Kumpulan Soal
+## Konsep Demokrasi di Indonesia
 1. Pendefinisian demokrasi yang sejalan dengan Dahl datang dari sebagai berikut, kecuali...
 
    a. Navis
@@ -69,3 +69,74 @@
    Jawaban : B
 
    Sumber : Melihat keadaan sekitar dan berita
+
+## GeoPolitik
+1. Dalam bahasa Yunani, geo berarti bumi dan politik berasal dari kata politeia (poli berarti kesatuan orang-orang yang berdiri sendiri dan teia yang berarti urusan). Geopolitik biasa juga disebut dengan...
+
+   a. Wawasan Nusantara
+
+   b. Wawasan Kebangsaan
+
+   c. Wawasan Geografi
+
+   d. Wawasan Politik
+
+   Jawaban : A
+
+   Sumber : https://www.detik.com/edu/detikpedia/d-5620524/apa-itu-geopolitik-ini-pengertian-teori-dan-unsur-pembangunan-geopolitik
+
+2. Berikut ini yang bukan contoh geopolitik dunia yang ramai dibicarakan di akhir tahun 2022 adalah...
+
+   a. Bilik perbatasan Mexico
+
+   b. Suasana geografis yang baik
+
+   c. Kemampuan lahan pertanian Rusia
+
+   d. Politik Afrika
+
+   Jawaban : B
+
+   Sumber : https://ppkn.co.id/geopolitik/
+
+3. Wawasan Nusantara sebagai wadah meliputi 3 komponen yaitu sebagai berikut, kecuali...
+
+   a. Bentuk wilayah
+
+   b. Tata inti organisasi
+
+   c. Tata tertib organisasi
+
+   d. Tata kelengkapan organisasi
+
+   Jawaban : C
+
+   Sumber : https://ppkn.co.id/geopolitik/
+
+4. Indonesia terletak di antara 2 benua dan 2 samudra, yaitu benua...
+
+   a. Asia dan Australia
+
+   b. Eropa dan Antartika
+
+   c. Amerika Utara dan Afrika
+
+   d. Amerika Selatan dan Jawa
+
+   Jawaban : A
+
+   Sumber : https://chatgpt.com/
+
+5. Yang tidak berbatasan secara langsung dengan negara Indonesia adalah...
+
+   a. Brunei Darussalam
+
+   b. Papua Nugini
+
+   c. Timor Leste
+
+   d. Palembang
+
+   Jawaban : D
+
+   Sumber : https://chatgpt.com/
